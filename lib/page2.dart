@@ -41,7 +41,7 @@ class MyProfile extends StatelessWidget {
                     alignment: Alignment.centerLeft,
                     child: Center(
                       child: Text(
-                        "นายเกรียงศักดิ์ อัครบุตร",
+                        "นายเกรียงศักดิ์ อัครบุตร,นายกฤติพงษ์ มงคล,นางสาวศศิภา พุฒพา",
                         style: bulletStyle,
                       ),
                     ),
@@ -54,7 +54,6 @@ class MyProfile extends StatelessWidget {
                       height: 380.0,
                     ),
                   ),
-                  
                   SizedBox(height: sizeBox),
                   ClipRRect(
                     borderRadius: BorderRadius.circular(50.0),
@@ -63,7 +62,6 @@ class MyProfile extends StatelessWidget {
                       height: 500.0,
                     ),
                   ),
-                  
                   SizedBox(height: sizeBox),
                   ClipRRect(
                     borderRadius: BorderRadius.circular(50.0),
@@ -72,8 +70,7 @@ class MyProfile extends StatelessWidget {
                       height: 480.0,
                     ),
                   ),
-                  
-                   SizedBox(height: sizeBox),
+                  SizedBox(height: sizeBox),
                   ClipRRect(
                     borderRadius: BorderRadius.circular(50.0),
                     child: Image.asset(
@@ -81,8 +78,7 @@ class MyProfile extends StatelessWidget {
                       height: 480.0,
                     ),
                   ),
-                  
-                   SizedBox(height: sizeBox),
+                  SizedBox(height: sizeBox),
                   ClipRRect(
                     borderRadius: BorderRadius.circular(50.0),
                     child: Image.asset(
@@ -90,7 +86,7 @@ class MyProfile extends StatelessWidget {
                       height: 480.0,
                     ),
                   ),
-                   SizedBox(height: sizeBox),
+                  SizedBox(height: sizeBox),
                   ClipRRect(
                     borderRadius: BorderRadius.circular(50.0),
                     child: Image.asset(
@@ -98,7 +94,7 @@ class MyProfile extends StatelessWidget {
                       height: 480.0,
                     ),
                   ),
-                   SizedBox(height: sizeBox),
+                  SizedBox(height: sizeBox),
                   ClipRRect(
                     borderRadius: BorderRadius.circular(50.0),
                     child: Image.asset(
@@ -106,12 +102,9 @@ class MyProfile extends StatelessWidget {
                       height: 480.0,
                     ),
                   ),
-                  
                   SizedBox(height: sizeBox),
                   ListTile(
-                    
                     title: Align(
-                      
                       alignment: Alignment(-1, 0),
                     ),
                   ),
