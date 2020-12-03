@@ -172,7 +172,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.developer_board),
                     title: Align(
                       child: new Text(
-                        'เชี่ยวชาญการเขียนโปรแกรมด้วย Python',
+                        'เชี่ยวชาญการเขียนภาษา HTML',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1, 0),
@@ -183,7 +183,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.developer_board),
                     title: Align(
                       child: new Text(
-                        'เชี่ยวชาญการการพัฒนาเว็บแอพพลิเคชั่นด้วย Django Framework',
+                        'ภาษาอังกฤษอ่านเขียน',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1, 0),
@@ -194,7 +194,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.developer_board),
                     title: Align(
                       child: new Text(
-                        'การวิเคราะห์ประมวลผลข้อมูลขนาดใหญ่ด้วย Python',
+                        'เล่นบาสเก็ตบอล',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1, 0),
@@ -205,7 +205,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.developer_board),
                     title: Align(
                       child: new Text(
-                        'การพัฒนาระบบงานเว็บเชอร์วิสด้วย Django Rest Framework',
+                        'เล่นเปตอง',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1, 0),
@@ -216,7 +216,7 @@ class MyProfile extends StatelessWidget {
                     leading: Icon(Icons.developer_board),
                     title: Align(
                       child: new Text(
-                        'การพัฒนาโมบายแอพพลิเคชันด้วย Flutter',
+                        'แข่งกินเร็ว',
                         style: contentStyle,
                       ),
                       alignment: Alignment(-1, 0),

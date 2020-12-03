@@ -51,10 +51,12 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - assets/imges/profile.jpg
-    - assets/imges/bam.jpg
-    - assets/imges/bamm.jpg
-    - assets/imges/mew.jpg
-    - assets/imges/meww.jpg
+    - assets/imges/prang.jpg
+    - assets/imges/prang2.jpg
+    - assets/imges/ton1.jpg
+    - assets/imges/ton2.jpg
+    - assets/imges/viewshowkauy.jpg
+    q- assets/imges/viewshowkauyaroy.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
